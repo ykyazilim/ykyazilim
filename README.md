@@ -41,7 +41,7 @@
 <br>
 <a href="https://www.linkedin.com/in/yusuf-karakaya-761511142/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://twitter.com/yusufkarakaya__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://instagram.com/ysfkarakaya06"><img src="https://img.shields.io/badge/İnstagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white" alt="İnstagram" /></a>&nbsp;
+<a href="https://instagram.com/ysfkarakaya"><img src="https://img.shields.io/badge/İnstagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white" alt="İnstagram" /></a>&nbsp;
 <a href="mailto:info@yusufkarakaya.com.tr?subject=Merhabalar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://wa.me/905453356357"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
