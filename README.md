@@ -1,18 +1,18 @@
   <header>
-      <h1>Hi there 👋</h1>
+      <h1>Merhabalar 👋</h1>
       <img align="right" width="450"  
         src="https://camo.githubusercontent.com/55ab0a9d634198b5368fa6dbd7b2a8e561f6b27f5dadc97e3ce60c77fe9109e8/68747470733a2f2f6173736574732e676f636f6465727a2e78797a2f736974652f77702d636f6e74656e742f75706c6f6164732f323031372f30322f7368757474657273746f636b5f3233393135373131352d343630783332302e6a7067"       
         alt=""
       />
       <h3>Web Developer</h3>
       <p>
-      I am Yusuf, I love web applications and design development, I serve in this field. I share some of my projects on my Github profile.
+      Ben Yusuf, Kurumsal - E-ticaret - SMM - ERP - CRM gibi web çözümleri geliştiriyor ve bu alanda hizmet veriyorum. Bazı projelerimi Github profilimde paylaşıyorum.
       </p>
 </header>
 
  
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp; Tecrübeler</h3>
 
 - 
   ![PHP](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white)
@@ -23,6 +23,7 @@
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
     ![Jquery](https://img.shields.io/badge/jquery-323330?style=for-the-badge&logo=jquery&logoColor=F7DF1E)
+    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 - 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -35,7 +36,7 @@
 <br/>
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+<h3> 🤝🏻 &nbsp;Sosyal Medya </h3> 
 
 <p align="center">
 <br>
@@ -47,12 +48,6 @@
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
-
-
-<br/>   
-
-<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ykyazilim"/>
-</p>
+ 
 
  
