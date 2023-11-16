@@ -6,11 +6,12 @@
       />
       <h3>Web Developer</h3>
       <p>
-      Ben Yusuf, 
+      Ben Yusuf, <br>
       Kurumsal - E-ticaret - SMM - ERP - CRM gibi web çözümleri geliştiriyor ve bu alanda hizmet veriyorum. Bazı projelerimi Github profilimde paylaşıyorum.
-      
-      <a href="https://drive.google.com/file/d/1k-Fvi2JZa5QL-ySGRTMyc9RBMir1Uc22/view">CV</a>
-      </p>
+       
+<a href="https://drive.google.com/file/d/1k-Fvi2JZa5QL-ySGRTMyc9RBMir1Uc22/view" target="_blank">CV'mi Görüntülemek İçin Tıkla</a>
+
+</p>
 </header>
 
  
